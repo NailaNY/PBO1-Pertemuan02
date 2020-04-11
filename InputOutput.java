@@ -8,5 +8,6 @@ String nama;
 System.out.print("Masukkan nama anda : ");
 nama = scanner.nextLine();
 System.out.print("Hai, "+nama);
+
 }
 }
