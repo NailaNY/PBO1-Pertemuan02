@@ -17,4 +17,3 @@ double jumlah = IPK * jumlahSKS;
 System.out.print("Total Nilai = "+jumlah);
 }
 }
-}
